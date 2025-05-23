@@ -35,6 +35,8 @@ Airlines need to enhance customer experience and satisfaction to remain competit
 - Dataset: Airline Satisfaction Survey Data (source assumed)
 
 ---
+## 📷 Dashboard Preview
+![Dashboard Preview](./dashboard-preview.png)
 
 
 
